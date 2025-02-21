@@ -13,5 +13,5 @@ Este repositorio contiene un conjunto de pruebas para una calculadora desarrolla
 
 ## Programas usados
 
--Intellij Idea
--GitHub
+- Intellij Idea
+- GitHub
